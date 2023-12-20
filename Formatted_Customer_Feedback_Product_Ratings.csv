@@ -1,0 +1,131 @@
+"﻿""Customer ID",Name,Age Group,Product ID,Product Category,Purchase Date,Rating,Comment
+1001,Alice Smith,26-35,2345,Electronics,2021-06-15,4,Satisfied
+1002,Bob Johnson,18-25,7896,Apparel,2021-08-21,3,Could be better
+1003,Charlie Brown,46-55,5643,Home Goods,2021-11-30,5,Excellent
+1004,Dana Wilson,36-45,2901,Books,2021-04-10,2,Not as expected
+1005,Evan Davis,56+,3728,Beauty Products,2021-09-05,1,Disappointed
+1006,Fiona Martinez,18-25,4567,Electronics,2021-07-20,5,Loved it
+1007,George Thomas,26-35,8820,Apparel,2021-03-15,4,Great product
+1008,Hannah Lee,36-45,3344,Home Goods,2021-10-22,2,Average
+1009,Ian Scott,46-55,7789,Books,2021-05-18,3,Would buy again
+1010,Julia King,56+,6211,Beauty Products,2021-12-07,4,Worth the price
+1011,Kevin Lopez,18-25,5489,Electronics,2021-02-11,1,Not worth the price
+1012,Laura White,26-35,3498,Apparel,2021-06-19,4,Satisfied
+1013,Max Carter,36-45,2735,Home Goods,2021-08-05,2,Could be better
+1014,Nina Perez,46-55,6921,Books,2021-04-22,5,Loved it
+1015,Omar Alexander,56+,3785,Beauty Products,2021-10-13,3,Average
+1016,Paige Turner,18-25,4863,Electronics,2021-05-06,4,Great product
+1017,Quentin Adams,26-35,5110,Apparel,2021-07-28,1,Disappointed
+1018,Rachel Hill,36-45,6902,Home Goods,2021-09-17,5,Excellent
+1019,Steve Morris,46-55,3104,Books,2021-03-09,2,Not as expected
+1020,Teresa Clark,56+,5649,Beauty Products,2021-11-30,4,Satisfied
+1021,Umar Khan,18-25,4931,Electronics,2021-12-20,3,Average
+1022,Victoria Diaz,26-35,3826,Apparel,2021-01-14,5,Loved it
+1023,Walter James,36-45,4479,Home Goods,2021-02-27,4,Great product
+1024,Ximena Ramirez,46-55,5238,Books,2021-06-11,1,Not worth the price
+1025,Yolanda Foster,56+,3984,Beauty Products,2021-08-23,2,Could be better
+1026,Zachary Green,18-25,5761,Electronics,2021-04-15,5,Excellent
+1027,Amy Nguyen,26-35,4620,Apparel,2021-07-05,3,Average
+1028,Brad King,36-45,2894,Home Goods,2021-09-29,4,Satisfied
+1029,Carla Holmes,46-55,6752,Books,2021-03-18,2,Disappointed
+1030,David Edwards,56+,5120,Beauty Products,2021-11-08,1,Not as expected
+1031,Emily Frank,18-25,4398,Electronics,2021-05-21,4,Great product
+1032,Frank Garcia,26-35,3465,Apparel,2021-07-30,3,Could be better
+1033,Grace Howard,36-45,2790,Home Goods,2021-10-12,5,Loved it
+1034,Henry Wilson,46-55,3849,Books,2021-02-03,2,Average
+1035,Isabel Martinez,56+,4675,Beauty Products,2021-06-29,1,Disappointed
+1036,Jack Robinson,18-25,5987,Electronics,2021-08-16,4,Satisfied
+1037,Karen Johnson,26-35,4376,Apparel,2021-04-07,3,Not as expected
+1038,Liam Nelson,36-45,5201,Home Goods,2021-12-01,5,Excellent
+1039,Mia White,46-55,2813,Books,2021-07-19,2,Could be better
+1040,Noah Brown,56+,3694,Beauty Products,2021-09-03,4,Great product
+1041,Olivia Harris,18-25,5279,Electronics,2021-03-14,5,Excellent
+1042,Pablo Gutierrez,26-35,4120,Apparel,2021-05-22,3,Average
+1043,Quinn Lee,36-45,3982,Home Goods,2021-08-18,1,Disappointed
+1044,Rachel Kim,46-55,4605,Books,2021-11-07,4,Satisfied
+1045,Samuel Johnson,56+,3496,Beauty Products,2021-01-29,2,Could be better
+1046,Tiffany Brooks,18-25,5893,Electronics,2021-04-16,5,Loved it
+1047,Ulysses Bernard,26-35,4172,Apparel,2021-06-30,4,Great product
+1048,Vanessa Smith,36-45,3048,Home Goods,2021-09-21,1,Not as expected
+1049,William Thompson,46-55,5287,Books,2021-12-13,3,Average
+1050,Xander Hughes,56+,4872,Beauty Products,2021-02-05,4,Satisfied
+1051,Yasmine Allen,18-25,5621,Electronics,2021-03-20,2,Disappointed
+1052,Zachary Moore,26-35,4598,Apparel,2021-05-27,5,Excellent
+1053,Amelia Wright,36-45,3734,Home Goods,2021-08-24,3,Could be better
+1054,Benjamin Clark,46-55,4469,Books,2021-11-11,1,Not worth the price
+1055,Charlotte Edwards,56+,3187,Beauty Products,2021-01-31,4,Great product
+1056,Daniel Martinez,18-25,5902,Electronics,2021-04-19,5,Loved it
+1057,Emma Watson,26-35,4225,Apparel,2021-07-02,2,Average
+1058,Felix Young,36-45,3099,Home Goods,2021-09-25,1,Disappointed
+1059,Grace Liu,46-55,5331,Books,2021-12-16,3,Satisfied
+1060,Henry Anderson,56+,4925,Beauty Products,2021-02-08,4,Great product
+1061,Isabella Jackson,18-25,5678,Electronics,2021-03-23,2,Could be better
+1062,Jack Phillips,26-35,4629,Apparel,2021-05-30,5,Excellent
+1063,Katherine Hall,36-45,3801,Home Goods,2021-08-27,3,Average
+1064,Liam Sanchez,46-55,4501,Books,2021-11-14,1,Not as expected
+1065,Mia Robinson,56+,3250,Beauty Products,2021-02-01,4,Satisfied
+1066,Noah Scott,18-25,5933,Electronics,2021-04-22,5,Loved it
+1067,Olivia Martin,26-35,4290,Apparel,2021-07-05,2,Disappointed
+1068,Peter Gonzalez,36-45,3155,Home Goods,2021-10-01,1,Not worth the price
+1069,Rachel Hill,46-55,5378,Books,2021-12-19,3,Average
+1070,Samuel Lewis,56+,4978,Beauty Products,2021-02-11,4,Great product
+1071,Thomas White,18-25,5012,Electronics,2021-03-26,2,Could be better
+1072,Ursula Martinez,26-35,4654,Apparel,2021-06-03,1,Disappointed
+1073,Victor Young,36-45,3866,Home Goods,2021-09-04,5,Excellent
+1074,Wendy Clark,46-55,4572,Books,2021-11-17,3,Satisfied
+1075,Xavier Davis,56+,3276,Beauty Products,2021-02-14,4,Great product
+1076,Yvonne Harris,18-25,5966,Electronics,2021-04-25,1,Not worth the price
+1077,Zachary Turner,26-35,4321,Apparel,2021-07-08,5,Loved it
+1078,Alice Robinson,36-45,3190,Home Goods,2021-10-04,2,Average
+1079,Brian Stewart,46-55,5405,Books,2021-12-22,4,Satisfied
+1080,Catherine Gomez,56+,5029,Beauty Products,2021-02-17,3,Could be better
+1081,David Hall,18-25,5095,Electronics,2021-03-29,5,Excellent
+1082,Emily Johnson,26-35,4687,Apparel,2021-06-06,2,Average
+1083,Frank Lee,36-45,3911,Home Goods,2021-09-07,1,Disappointed
+1084,Grace Phillips,46-55,4601,Books,2021-11-20,4,Great product
+1085,Henry Allen,56+,3303,Beauty Products,2021-02-20,1,Not as expected
+1086,Isabella Scott,18-25,5999,Electronics,2021-04-28,3,Satisfied
+1087,Jack White,26-35,4352,Apparel,2021-07-11,5,Loved it
+1088,Katherine Walker,36-45,3223,Home Goods,2021-10-07,2,Average
+1089,Liam Harris,46-55,5432,Books,2021-12-25,4,Satisfied
+1090,Mia Young,56+,5056,Beauty Products,2021-02-23,3,Could be better
+1091,Noah Martinez,18-25,5128,Electronics,2021-03-31,5,Excellent
+1092,Olivia Lee,26-35,4719,Apparel,2021-06-09,1,Disappointed
+1093,Peter Thompson,36-45,3944,Home Goods,2021-09-10,4,Great product
+1094,Rachel Johnson,46-55,4630,Books,2021-11-23,2,Could be better
+1095,Samuel Clark,56+,3330,Beauty Products,2021-02-26,1,Not worth the price
+1096,Thomas Hill,18-25,6033,Electronics,2021-05-01,3,Satisfied
+1097,Ursula Moore,26-35,4383,Apparel,2021-07-14,5,Loved it
+1098,Victor Davis,36-45,3256,Home Goods,2021-10-10,2,Average
+1099,Wendy Brown,46-55,5460,Books,2021-12-28,4,Satisfied
+1100,Xavier Wilson,56+,5083,Beauty Products,2021-03-02,3,Could be better
+1101,Yolanda Green,18-25,6047,Electronics,2021-05-04,4,Great product
+1102,Zachary Hernandez,26-35,4414,Apparel,2021-07-17,2,Average
+1103,Amelia Foster,36-45,3289,Home Goods,2021-10-13,5,Loved it
+1104,Benjamin Lee,46-55,5491,Books,2021-01-04,3,Satisfied
+1105,Charlotte Garcia,56+,5110,Beauty Products,2021-03-05,1,Disappointed
+1106,Daniel Hall,18-25,6078,Electronics,2021-05-07,5,Excellent
+1107,Emily Martinez,26-35,4445,Apparel,2021-07-20,4,Satisfied
+1108,Frank Phillips,36-45,3315,Home Goods,2021-10-16,2,Could be better
+1109,Grace Evans,46-55,5520,Books,2021-01-07,1,Not worth the price
+1110,Henry Robinson,56+,5137,Beauty Products,2021-03-08,3,Average
+1111,Isabella Clark,18-25,6101,Electronics,2021-05-10,4,Great product
+1112,Jack Walker,26-35,4476,Apparel,2021-07-23,5,Loved it
+1113,Katherine Wilson,36-45,3344,Home Goods,2021-10-19,2,Disappointed
+1114,Liam Johnson,46-55,5550,Books,2021-01-10,1,Not as expected
+1115,Mia Anderson,56+,5164,Beauty Products,2021-03-11,4,Satisfied
+1116,Noah Thompson,18-25,6125,Electronics,2021-05-13,3,Average
+1117,Olivia Harris,26-35,4509,Apparel,2021-07-26,5,Excellent
+1118,Peter Sanchez,36-45,3373,Home Goods,2021-10-22,1,Not worth the price
+1119,Rachel White,46-55,5581,Books,2021-01-13,2,Could be better
+1120,Samuel King,56+,5191,Beauty Products,2021-03-14,5,Loved it
+1121,Thomas Moore,18-25,6150,Electronics,2021-05-16,4,Great product
+1122,Ursula Brown,26-35,4533,Apparel,2021-07-29,2,Average
+1123,Victor Johnson,36-45,3402,Home Goods,2021-10-25,1,Disappointed
+1124,Wendy Martinez,46-55,5611,Books,2021-01-16,3,Satisfied
+1125,Xavier Davis,56+,5218,Beauty Products,2021-03-17,5,Excellent
+1126,Yolanda Wilson,18-25,6174,Electronics,2021-05-19,2,Could be better
+1127,Zachary Miller,26-35,4558,Apparel,2021-08-01,4,Satisfied
+1128,Amelia Brown,36-45,3430,Home Goods,2021-10-28,3,Average
+1129,Benjamin Garcia,46-55,5642,Books,2021-01-19,1,Not as expected
+1130,Charlotte Hall,56+,5245,Beauty Products,2021-03-20,4,Great product
